@@ -1,6 +1,8 @@
 # Sea for Android
 Android Version for Sea.
 
+![Sea Demo](./sea-demo.jpg)
+
 ## Installation
 Currently the Sea-App is not available in the Google Play Store (maybe in future). But you can download a signed APK-File for Android in my Google Drive Folder and install it manually on your phone. You may need to go to your system settings and allow to install Apps from other sources.
 
