@@ -11,7 +11,10 @@ So here are the steps:
 4. That's it! 
 
 ## Minimum Requirements
-* API 16: Android 4.1 (Jelly Beans) 
+* API 16: Android 4.1 (Jelly Beans)
+
+## Size
+* ca. 69 MB
 
 ## Current Version
 * Sea v1.0-alpha 
