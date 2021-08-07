@@ -14,7 +14,7 @@ So here are the steps:
 * API 16: Android 4.1 (Jelly Beans)
 
 ## Size
-* ca. 69 MB
+* ca. 56 MB
 
 ## Current Version
 * Sea v1.0-alpha 
